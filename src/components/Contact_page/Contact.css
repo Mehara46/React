@@ -1,0 +1,13 @@
+
+
+.formborder{
+    border-style:solid ;
+    border-color: rgb(190, 182, 182);
+}
+
+.contactsection{
+    height:500px;
+    background-image: url("../../assets/images/contactHeader1.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  }

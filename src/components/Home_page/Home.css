@@ -1,0 +1,67 @@
+.para {
+  text-align: justify;
+}
+
+
+.review {
+  text-align: justify;
+  word-spacing: 3px;
+
+  font-family: sans-serif;
+}
+
+
+h5 h4 {
+  font-family: sans-serif;
+  font-weight: bolder
+}
+
+
+.ratings i {
+  color: blue;
+}
+
+.headerimage {
+  object-fit: cover;
+}
+
+.homesection {
+  height: 100vh;
+  background-image: url("../../assets/images/home1.jpg");
+  background-size: cover;
+  background-position: center center;
+
+}
+
+.headertag {
+  font-family: serif;
+  margin-top: 50px;
+}
+@media(min-width:768px){
+  .headertag{
+    margin-top:150px ;
+  }
+}
+
+.heading {
+  font-size: 30px;
+}
+
+@media(min-width: 1024px){
+  .heading {
+    font-size: 60px;
+  }
+}
+
+.headingTab {
+  font-size: 30 px;
+}
+
+.grid:hover {
+
+  background-color: rgb(221, 221, 206);
+}
+
+/* .card:hover{
+  transform: scale(1.2);
+} */

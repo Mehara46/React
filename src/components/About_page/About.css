@@ -1,0 +1,15 @@
+
+
+h3{
+    font-family:sans-serif ;
+    font-weight:bolder
+}
+
+
+.aboutsection{
+    height:500px;
+    background-image: url("../../assets/images/eventheader.jpg");
+  background-size: cover;
+  background-position: center center;
+ 
+  }

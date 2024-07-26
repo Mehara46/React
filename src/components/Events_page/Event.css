@@ -1,0 +1,39 @@
+h2 {
+
+  font-weight: bolder;
+  font-family: sans-serif;
+  font-size: xx-large;
+
+}
+
+.carousel_inner {
+  padding-left: 80px;
+  padding-right: 80px;
+
+
+}
+
+.carousel_main_div {
+  height: 100px;
+
+}
+
+ /* .eventImage {
+  width: 350px;
+}
+
+@media (min-width:1024px) {
+  .eventImage {
+    width: 500px;
+  }
+} */
+
+
+
+
+.eventsection {
+  height: 500px;
+  background-image: url("../../assets/images/aboutHeader3.jpg");
+  background-size: cover;
+  background-position: center center;
+}
